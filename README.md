@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at Toyota Technological Institute.
 - 🌱 I’m currently learning Python.
-
+-->
