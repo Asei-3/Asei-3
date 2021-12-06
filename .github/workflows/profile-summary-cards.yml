@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: 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
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Asei-3
