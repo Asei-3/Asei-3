@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a student at **Toyota Technological Institute.**
 
-- 📫 How to reach me **sd18046@toyota-ti.ac.jp**
+- 📫 How to reach me **a.stella0316@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
